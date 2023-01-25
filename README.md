@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## Live Project link : [Expense Calculator](https://loginvalidation-sakebul.netlify.app/)
+## Live Project link : [Login Validation](https://loginvalidation-sakebul.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
